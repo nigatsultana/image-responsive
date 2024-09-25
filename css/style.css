@@ -1,0 +1,25 @@
+body{
+margin: 0;
+background-color:yellowgreen;
+}
+.images{
+  padding: 50px 0;
+}
+.container{
+    overflow: hidden;
+    margin: 0 auto;
+   width: 960px;
+   border: 2px solid black;
+   
+}
+.img_item{
+    box-sizing: border-box;
+    float: left;
+    width: 25%;
+    padding: .5% .5%;
+
+}
+.img_item img{
+    width: 100%;
+
+}
